@@ -36,18 +36,9 @@ type Package struct {
 
 // Symbols contains the infor we want to extract for each locale
 type Symbols struct {
-	Decimal                string `json:"decimal"`
-	Group                  string `json:"group"`
-	List                   string `json:"list"`
-	PercentSign            string `json:"percentSign"`
-	PlusSign               string `json:"plusSign"`
-	MinusSign              string `json:"minusSign"`
-	Exponential            string `json:"exponential"`
-	SuperscriptingExponent string `json:"superscriptingExponent"`
-	PerMille               string `json:"perMille"`
-	Infinity               string `json:"infinity"`
-	Nan                    string `json:"nan"`
-	TimeSeparator          string `json:"timeSeparator"`
+	Decimal     string `json:"decimal"`
+	Group       string `json:"group"`
+	PercentSign string `json:"percentSign"`
 }
 
 // Locale has the details of the settings

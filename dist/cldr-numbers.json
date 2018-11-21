@@ -30,7534 +30,2692 @@
     "af": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "af-NA": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "agq": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ak": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "am": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ar": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "‎%‎",
-      "plusSign": "‎+",
-      "minusSign": "‎-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "ليس رقمًا",
-      "timeSeparator": ":"
+      "percentSign": "‎%‎"
     },
     "ar-AE": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "‎%‎",
-      "plusSign": "‎+",
-      "minusSign": "‎-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "ليس رقمًا",
-      "timeSeparator": ":"
+      "percentSign": "‎%‎"
     },
     "ar-BH": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "‎%‎",
-      "plusSign": "‎+",
-      "minusSign": "‎-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "ليس رقمًا",
-      "timeSeparator": ":"
+      "percentSign": "‎%‎"
     },
     "ar-DJ": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "‎%‎",
-      "plusSign": "‎+",
-      "minusSign": "‎-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "ليس رقمًا",
-      "timeSeparator": ":"
+      "percentSign": "‎%‎"
     },
     "ar-DZ": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "‎%‎",
-      "plusSign": "‎+",
-      "minusSign": "‎-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "ليس رقمًا",
-      "timeSeparator": ":"
+      "percentSign": "‎%‎"
     },
     "ar-EG": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "‎%‎",
-      "plusSign": "‎+",
-      "minusSign": "‎-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "ليس رقمًا",
-      "timeSeparator": ":"
+      "percentSign": "‎%‎"
     },
     "ar-EH": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "‎%‎",
-      "plusSign": "‎+",
-      "minusSign": "‎-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "ليس رقمًا",
-      "timeSeparator": ":"
+      "percentSign": "‎%‎"
     },
     "ar-ER": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "‎%‎",
-      "plusSign": "‎+",
-      "minusSign": "‎-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "ليس رقمًا",
-      "timeSeparator": ":"
+      "percentSign": "‎%‎"
     },
     "ar-IL": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "‎%‎",
-      "plusSign": "‎+",
-      "minusSign": "‎-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "ليس رقمًا",
-      "timeSeparator": ":"
+      "percentSign": "‎%‎"
     },
     "ar-IQ": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "‎%‎",
-      "plusSign": "‎+",
-      "minusSign": "‎-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "ليس رقمًا",
-      "timeSeparator": ":"
+      "percentSign": "‎%‎"
     },
     "ar-JO": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "‎%‎",
-      "plusSign": "‎+",
-      "minusSign": "‎-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "ليس رقمًا",
-      "timeSeparator": ":"
+      "percentSign": "‎%‎"
     },
     "ar-KM": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "‎%‎",
-      "plusSign": "‎+",
-      "minusSign": "‎-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "ليس رقمًا",
-      "timeSeparator": ":"
+      "percentSign": "‎%‎"
     },
     "ar-KW": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "‎%‎",
-      "plusSign": "‎+",
-      "minusSign": "‎-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "ليس رقمًا",
-      "timeSeparator": ":"
+      "percentSign": "‎%‎"
     },
     "ar-LB": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "‎%‎",
-      "plusSign": "‎+",
-      "minusSign": "‎-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "ليس رقمًا",
-      "timeSeparator": ":"
+      "percentSign": "‎%‎"
     },
     "ar-LY": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "‎%‎",
-      "plusSign": "‎+",
-      "minusSign": "‎-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "ليس رقمًا",
-      "timeSeparator": ":"
+      "percentSign": "‎%‎"
     },
     "ar-MA": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "‎%‎",
-      "plusSign": "‎+",
-      "minusSign": "‎-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "ليس رقمًا",
-      "timeSeparator": ":"
+      "percentSign": "‎%‎"
     },
     "ar-MR": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "‎%‎",
-      "plusSign": "‎+",
-      "minusSign": "‎-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "ليس رقمًا",
-      "timeSeparator": ":"
+      "percentSign": "‎%‎"
     },
     "ar-OM": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "‎%‎",
-      "plusSign": "‎+",
-      "minusSign": "‎-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "ليس رقمًا",
-      "timeSeparator": ":"
+      "percentSign": "‎%‎"
     },
     "ar-PS": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "‎%‎",
-      "plusSign": "‎+",
-      "minusSign": "‎-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "ليس رقمًا",
-      "timeSeparator": ":"
+      "percentSign": "‎%‎"
     },
     "ar-QA": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "‎%‎",
-      "plusSign": "‎+",
-      "minusSign": "‎-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "ليس رقمًا",
-      "timeSeparator": ":"
+      "percentSign": "‎%‎"
     },
     "ar-SA": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "٪",
-      "plusSign": "‎+",
-      "minusSign": "‎-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "ليس رقمًا",
-      "timeSeparator": ":"
+      "percentSign": "٪"
     },
     "ar-SD": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "‎%‎",
-      "plusSign": "‎+",
-      "minusSign": "‎-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "ليس رقمًا",
-      "timeSeparator": ":"
+      "percentSign": "‎%‎"
     },
     "ar-SO": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "٪",
-      "plusSign": "‎+",
-      "minusSign": "‎-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "ليس رقمًا",
-      "timeSeparator": ":"
+      "percentSign": "٪"
     },
     "ar-SS": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "‎%‎",
-      "plusSign": "‎+",
-      "minusSign": "‎-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "ليس رقمًا",
-      "timeSeparator": ":"
+      "percentSign": "‎%‎"
     },
     "ar-SY": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "‎%‎",
-      "plusSign": "‎+",
-      "minusSign": "‎-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "ليس رقمًا",
-      "timeSeparator": ":"
+      "percentSign": "‎%‎"
     },
     "ar-TD": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "‎%‎",
-      "plusSign": "‎+",
-      "minusSign": "‎-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "ليس رقمًا",
-      "timeSeparator": ":"
+      "percentSign": "‎%‎"
     },
     "ar-TN": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "‎%‎",
-      "plusSign": "‎+",
-      "minusSign": "‎-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "ليس رقمًا",
-      "timeSeparator": ":"
+      "percentSign": "‎%‎"
     },
     "ar-YE": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "‎%‎",
-      "plusSign": "‎+",
-      "minusSign": "‎-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "ليس رقمًا",
-      "timeSeparator": ":"
+      "percentSign": "‎%‎"
     },
     "as": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "asa": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ast": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "ND",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "az": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "az-Cyrl": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "az-Latn": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "bas": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "be": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "bem": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "bez": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "bg": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "bm": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "bn": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "bn-IN": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "bo": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "bo-IN": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "br": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "brx": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "bs": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "bs-Cyrl": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "bs-Latn": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ca": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ca-AD": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ca-ES-VALENCIA": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ca-FR": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ca-IT": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ccp": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ccp-IN": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ce": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "Терхьаш дац",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "cgg": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "chr": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ckb": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "‎+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ckb-IR": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "‎+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "cs": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "cu": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "cy": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "da": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": "."
+      "percentSign": "%"
     },
     "da-GL": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": "."
+      "percentSign": "%"
     },
     "dav": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "de": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "·",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "de-AT": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "·",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "de-BE": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "·",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "de-CH": {
       "decimal": ".",
       "group": "’",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "·",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "de-IT": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "·",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "de-LI": {
       "decimal": ".",
       "group": "’",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "·",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "de-LU": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "·",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "dje": {
       "decimal": ".",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "dsb": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "·",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "dua": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "dyo": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "dz": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ebu": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ee": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "mnn",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ee-TG": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "mnn",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "el": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "e",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "el-CY": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "e",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-001": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-150": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-AG": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-AI": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-AS": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-AT": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "·",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-AU": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "e",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": "."
+      "percentSign": "%"
     },
     "en-BB": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-BE": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-BI": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-BM": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-BS": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-BW": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-BZ": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-CA": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "e",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-CC": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-CH": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "·",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-CK": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-CM": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-CX": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-CY": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-DE": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "·",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-DG": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-DK": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": "."
+      "percentSign": "%"
     },
     "en-DM": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-ER": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-FI": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": "."
+      "percentSign": "%"
     },
     "en-FJ": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-FK": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-FM": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-GB": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-GD": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-GG": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-GH": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-GI": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-GM": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-GU": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-GY": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-HK": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-IE": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-IL": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-IM": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-IN": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-IO": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-JE": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-JM": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-KE": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-KI": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-KN": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-KY": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-LC": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-LR": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-LS": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-MG": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-MH": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-MO": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-MP": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-MS": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-MT": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-MU": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-MW": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-MY": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-NA": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-NF": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-NG": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-NL": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-NR": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-NU": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-NZ": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-PG": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-PH": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-PK": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-PN": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-PR": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-PW": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-RW": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-SB": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-SC": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-SD": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-SE": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "×10^",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-SG": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-SH": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-SI": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "e",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-SL": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-SS": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-SX": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-SZ": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-TC": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-TK": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-TO": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-TT": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-TV": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-TZ": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-UG": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-UM": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-US-POSIX": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "0/00",
-      "infinity": "INF",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-VC": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-VG": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-VI": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-VU": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-WS": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-ZA": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-ZM": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "en-ZW": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "eo": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "es": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "es-419": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "es-AR": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "es-BO": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "es-BR": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "es-BZ": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "es-CL": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "es-CO": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "es-CR": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "es-CU": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "es-DO": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "es-EA": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "es-EC": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "es-GQ": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "es-GT": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "es-HN": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "es-IC": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "es-MX": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "es-NI": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "es-PA": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "es-PE": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "es-PH": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "es-PR": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "es-PY": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "es-SV": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "es-US": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "es-UY": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "es-VE": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "et": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "−",
-      "exponential": "×10^",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "eu": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "−",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ewo": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "fa": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "‎+",
-      "minusSign": "‎−",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "ناعدد",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "fa-AF": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "‎+",
-      "minusSign": "‎−",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "ناعدد",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ff": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ff-Latn": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ff-Latn-BF": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ff-Latn-CM": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ff-Latn-GH": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ff-Latn-GM": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ff-Latn-GN": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ff-Latn-GW": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ff-Latn-LR": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ff-Latn-MR": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ff-Latn-NE": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ff-Latn-NG": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ff-Latn-SL": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "fi": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "−",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "epäluku",
-      "timeSeparator": "."
+      "percentSign": "%"
     },
     "fil": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "fo": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "−",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "fo-DK": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "−",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "fr": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "fr-BE": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "fr-BF": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "fr-BI": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "fr-BJ": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "fr-BL": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "fr-CA": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "fr-CD": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "fr-CF": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "fr-CG": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "fr-CH": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "fr-CI": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "fr-CM": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "fr-DJ": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "fr-DZ": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "fr-GA": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "fr-GF": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "fr-GN": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "fr-GP": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "fr-GQ": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "fr-HT": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "fr-KM": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "fr-LU": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "fr-MA": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "fr-MC": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "fr-MF": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "fr-MG": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "fr-ML": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "fr-MQ": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "fr-MR": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "fr-MU": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "fr-NC": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "fr-NE": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "fr-PF": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "fr-PM": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "fr-RE": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "fr-RW": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "fr-SC": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "fr-SN": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "fr-SY": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "fr-TD": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "fr-TG": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "fr-TN": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "fr-VU": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "fr-WF": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "fr-YT": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "fur": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "fy": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ga": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "gd": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "gl": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "gsw": {
       "decimal": ".",
       "group": "’",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "−",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "gsw-FR": {
       "decimal": ".",
       "group": "’",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "−",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "gsw-LI": {
       "decimal": ".",
       "group": "’",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "−",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "gu": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "guz": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "gv": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ha": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ha-GH": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ha-NE": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "haw": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "he": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "‎+",
-      "minusSign": "‎-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "hi": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "hr": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "hr-BA": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "hsb": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "·",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "hu": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "hy": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "ՈչԹ",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ia": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "id": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": "."
+      "percentSign": "%"
     },
     "ig": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ii": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "is": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "it": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "it-CH": {
       "decimal": ".",
       "group": "’",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "it-SM": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "it-VA": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ja": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "jgo": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "jmc": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "jv": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ka": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "არ არის რიცხვი",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "kab": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "kam": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "kde": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "kea": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "khq": {
       "decimal": ".",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ki": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "kk": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "сан емес",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "kkj": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "kl": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "kln": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "km": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "kn": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ko": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ko-KP": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "kok": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ks": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "‎+",
-      "minusSign": "‎-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ksb": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ksf": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ksh": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "−",
-      "exponential": "×10^",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "¤¤¤",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ku": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "kw": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ky": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "сан эмес",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "lag": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "lb": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "lg": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "lkt": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ln": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ln-AO": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ln-CF": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ln-CG": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "lo": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "ບໍ່​ແມ່ນ​ໂຕ​ເລກ",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "lrc": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "lrc-IQ": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "lt": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "−",
-      "exponential": "×10^",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "lu": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "luo": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "luy": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "lv": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NS",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "mas": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "mas-TZ": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "mer": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "mfe": {
       "decimal": ".",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "mg": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "mgh": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "mgo": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "mi": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "mk": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ml": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "mn": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "mr": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ms": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ms-BN": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ms-SG": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "mt": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "mua": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "my": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "ဂဏန်းမဟုတ်သော",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "mzn": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "naq": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "nb": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "−",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "nb-SJ": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "−",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "nd": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "nds": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "nds-NL": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ne": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ne-IN": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "nl": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "nl-AW": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "nl-BE": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "nl-BQ": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "nl-CW": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "nl-SR": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "nl-SX": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "nmg": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "nn": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "−",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "nnh": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "nus": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "nyn": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "om": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "om-KE": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "or": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "os": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "НН",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "os-RU": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "НН",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "pa": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "pa-Arab": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "‎+",
-      "minusSign": "‎-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "pa-Guru": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "pl": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "prg": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ps": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "‎+",
-      "minusSign": "‎−",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "pt": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "pt-AO": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "pt-CH": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "pt-CV": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "pt-GQ": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "pt-GW": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "pt-LU": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "pt-MO": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "pt-MZ": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "pt-PT": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "pt-ST": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "pt-TL": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "qu": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "qu-BO": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "qu-EC": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "rm": {
       "decimal": ".",
       "group": "’",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "−",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "rn": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ro": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ro-MD": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "rof": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "root": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ru": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "не число",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ru-BY": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "не число",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ru-KG": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "не число",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ru-KZ": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "не число",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ru-MD": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "не число",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ru-UA": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "не число",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "rw": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "rwk": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "sah": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "чыыһыла буотах",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "saq": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "sbp": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "sd": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "se": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "−",
-      "exponential": "·10^",
-      "superscriptingExponent": "·",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "¤¤¤",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "se-FI": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "−",
-      "exponential": "·10^",
-      "superscriptingExponent": "·",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "¤¤¤",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "se-SE": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "−",
-      "exponential": "·10^",
-      "superscriptingExponent": "·",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "¤¤¤",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "seh": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ses": {
       "decimal": ".",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "sg": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "shi": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "shi-Latn": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "shi-Tfng": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "si": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": "."
+      "percentSign": "%"
     },
     "sk": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "e",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "sl": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "−",
-      "exponential": "e",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "smn": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "epiloho",
-      "timeSeparator": "."
+      "percentSign": "%"
     },
     "sn": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "so": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "so-DJ": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "so-ET": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "so-KE": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "sq": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "sq-MK": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "sq-XK": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "sr": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "sr-Cyrl": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "sr-Cyrl-BA": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "sr-Cyrl-ME": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "sr-Cyrl-XK": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "sr-Latn": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "sr-Latn-BA": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "sr-Latn-ME": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "sr-Latn-XK": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "sv": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "−",
-      "exponential": "×10^",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "¤¤¤",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "sv-AX": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "−",
-      "exponential": "×10^",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "¤¤¤",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "sv-FI": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "−",
-      "exponential": "×10^",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "¤¤¤",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "sw": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "sw-CD": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "sw-KE": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "sw-UG": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ta": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ta-LK": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ta-MY": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ta-SG": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "te": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "teo": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "teo-KE": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "tg": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "th": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ti": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ti-ER": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "tk": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "san däl",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "to": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "TF",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "tr": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "tr-CY": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "tt": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "twq": {
       "decimal": ".",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "tzm": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ug": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "uk": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "Е",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ur": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "‎+",
-      "minusSign": "‎-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "ur-IN": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "‎+",
-      "minusSign": "‎-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "uz": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "son emas",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "uz-Arab": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "‎+",
-      "minusSign": "‎−",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "uz-Cyrl": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "ҳақиқий сон эмас",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "uz-Latn": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "son emas",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "vai": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "vai-Latn": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "vai-Vaii": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "vi": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "vo": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "vun": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "wae": {
       "decimal": ",",
       "group": "’",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "wo": {
       "decimal": ",",
       "group": ".",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "xh": {
       "decimal": ".",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "xog": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "yav": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "yi": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "yo": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "yo-BJ": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "yue": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "非數值",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "yue-Hans": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "非数值",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "yue-Hant": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "非數值",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "zgh": {
       "decimal": ",",
       "group": " ",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "zh": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "zh-Hans": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "zh-Hans-HK": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "zh-Hans-MO": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "zh-Hans-SG": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "zh-Hant": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "非數值",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "zh-Hant-HK": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "非數值",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "zh-Hant-MO": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "非數值",
-      "timeSeparator": ":"
+      "percentSign": "%"
     },
     "zu": {
       "decimal": ".",
       "group": ",",
-      "list": ";",
-      "percentSign": "%",
-      "plusSign": "+",
-      "minusSign": "-",
-      "exponential": "E",
-      "superscriptingExponent": "×",
-      "perMille": "‰",
-      "infinity": "∞",
-      "nan": "NaN",
-      "timeSeparator": ":"
+      "percentSign": "%"
     }
   }
 }
