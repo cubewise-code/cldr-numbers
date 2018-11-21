@@ -7,6 +7,7 @@ import (
 	"io/ioutil"
 	"os"
 	"path/filepath"
+	"regexp"
 )
 
 // Package contains the details about the source cldr
@@ -36,9 +37,9 @@ type Package struct {
 
 // Symbols contains the infor we want to extract for each locale
 type Symbols struct {
-	Decimal     string `json:"decimal"`
-	Group       string `json:"group"`
-	PercentSign string `json:"percentSign"`
+	Decimal     string `json:"decimal,omitempty"`
+	Group       string `json:"group,omitempty"`
+	PercentSign string `json:"percentSign,omitempty"`
 }
 
 // Locale has the details of the settings
@@ -68,19 +69,34 @@ type Numbers struct {
 	Main map[string]Locale `json:"main"`
 }
 
+// Result is the format that is written to disk
+type Result struct {
+	Package Package            `json:"package"`
+	Symbols map[string]Symbols `json:"symbols"`
+}
+
 func main() {
 
 	dir := flag.String("dir", "cldr-numbers-full", "Directory when cldr-numbers-full is located")
 
-	flag.Parse()
-
-	type Result struct {
-		Package Package            `json:"package"`
-		Symbols map[string]Symbols `json:"symbols"`
+	type Defaults struct {
+		Decimal     string
+		Group       string
+		PercentSign string
+	}
+	defaults := Defaults{
+		Decimal:     ".",
+		Group:       ",",
+		PercentSign: "%",
 	}
 
-	result := Result{}
-	result.Symbols = map[string]Symbols{}
+	flag.Parse()
+
+	full := Result{}
+	full.Symbols = map[string]Symbols{}
+
+	condensed := Result{}
+	condensed.Symbols = map[string]Symbols{}
 
 	err := filepath.Walk(*dir, func(filePath string, file os.FileInfo, err error) error {
 		if file != nil {
@@ -95,7 +111,24 @@ func main() {
 					fmt.Printf("Unable to parse file %s: %s", filePath, err)
 				}
 				for key, val := range numbers.Main {
-					result.Symbols[key] = val.Numbers.Symbols
+					full.Symbols[key] = val.Numbers.Symbols
+					count := 0
+					if val.Numbers.Symbols.Decimal == defaults.Decimal {
+						val.Numbers.Symbols.Decimal = ""
+						count++
+					}
+					if val.Numbers.Symbols.Group == defaults.Group {
+						val.Numbers.Symbols.Group = ""
+						count++
+					}
+					if val.Numbers.Symbols.PercentSign == defaults.PercentSign {
+						val.Numbers.Symbols.PercentSign = ""
+						count++
+					}
+					if count != 3 {
+						// Don't add if everything was omited
+						condensed.Symbols[key] = val.Numbers.Symbols
+					}
 				}
 			} else if file.Name() == "package.json" {
 				bytes, err := ioutil.ReadFile(filePath)
@@ -107,7 +140,8 @@ func main() {
 				if err != nil {
 					fmt.Printf("Unable to parse file %s: %s", filePath, err)
 				}
-				result.Package = *pack
+				full.Package = *pack
+				condensed.Package = *pack
 			}
 		}
 		return nil
@@ -118,39 +152,78 @@ func main() {
 		return
 	}
 
-	if len(result.Symbols) == 0 {
+	if len(full.Symbols) == 0 {
 		fmt.Print("No locales found, check path to cldr-numbers-full")
 		return
 	}
 
-	if _, err := os.Stat("dist"); os.IsNotExist(err) {
-		os.Mkdir("dist", 0644)
-	}
-
-	pretty, err := json.MarshalIndent(result, "", "  ")
+	err = writeToFile("cldr-numbers", full, false)
 	if err != nil {
-		fmt.Printf("Unable to marshal file: %s", err)
+		fmt.Print(err)
 		return
 	}
 
-	err = ioutil.WriteFile("dist/cldr-numbers.json", pretty, 0644)
+	err = writeToFile("cldr-numbers-condensed", condensed, false)
 	if err != nil {
-		fmt.Printf("Unable to write file: %s", err)
+		fmt.Print(err)
 		return
 	}
 
-	min, err := json.Marshal(result)
+	err = writeToFile("cldr-numbers", full, true)
 	if err != nil {
-		fmt.Printf("Unable to marshal file: %s", err)
+		fmt.Print(err)
 		return
 	}
 
-	err = ioutil.WriteFile("dist/cldr-numbers.min.json", min, 0644)
+	err = writeToFile("cldr-numbers-condensed", condensed, true)
 	if err != nil {
-		fmt.Printf("Unable to write file: %s", err)
+		fmt.Print(err)
 		return
 	}
 
 	fmt.Println("Complete")
 
+}
+
+func writeToFile(name string, result Result, javaScript bool) error {
+	if _, err := os.Stat("dist"); os.IsNotExist(err) {
+		os.Mkdir("dist", 0644)
+	}
+
+	extension := "json"
+	if javaScript {
+		extension = "js"
+	}
+
+	pretty, err := json.MarshalIndent(result, "", "  ")
+	if err != nil {
+		return fmt.Errorf("Unable to marshal file: %s", err)
+	}
+
+	min, err := json.Marshal(result)
+	if err != nil {
+		return fmt.Errorf("Unable to marshal file: %s", err)
+	}
+
+	if javaScript {
+		re := regexp.MustCompile(`("([A-Za-z_]+)"):`)
+		sPretty := string(pretty)
+		sPretty = re.ReplaceAllString(sPretty, `$2:`)
+		pretty = []byte(sPretty)
+		sMin := string(min)
+		sMin = re.ReplaceAllString(sMin, `$2:`)
+		min = []byte(sMin)
+	}
+
+	err = ioutil.WriteFile("dist/"+name+"."+extension, pretty, 0644)
+	if err != nil {
+		return fmt.Errorf("Unable to write file: %s", err)
+	}
+
+	err = ioutil.WriteFile("dist/"+name+".min."+extension, min, 0644)
+	if err != nil {
+		return fmt.Errorf("Unable to write file: %s", err)
+	}
+
+	return nil
 }
